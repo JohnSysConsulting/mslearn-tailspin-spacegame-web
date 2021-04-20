@@ -12,6 +12,8 @@ using TailSpin.SpaceGame.Web.Models;
 using Microsoft.AspNetCore.Http;
 
 // My first change
+
+// Troisieme cas ou T
 namespace TailSpin.SpaceGame.Web
 {
     public class Startup
